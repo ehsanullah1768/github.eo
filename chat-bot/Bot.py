@@ -20,8 +20,8 @@ import cv2 as cv
 import tempfile
 
 
-TOKEN = "495276922:AAEZnO_xMWnUOH5BV9BkRpAKW5AY902_BY0"
-OWM_KEY = "32afea97fb292cf55f4d070ec5ab8ba9"
+TOKEN = "Telegram api"
+OWM_KEY = "openweather kdy"
 POLLING_TIMEOUT = 100
 
 
@@ -77,7 +77,7 @@ def parseConfig():
     OWM_KEY = c.get("Settings", "OWM_KEY")
 
 
-    URL_OWM = "https://api.openweathermap.org/data/2.5/weather?&appid=32afea97fb292cf55f4d070ec5ab8ba9&units=metric&&".format(
+    URL_OWM = "https://api.openweathermap.org/data/2.5/weather?&appid=openweather key&units=metric&&".format(
         OWM_KEY)
     POLLING_TIMEOUT = c.get("Settings", "POLLING_TIMEOUT")
 
@@ -359,7 +359,7 @@ def handleUpdates(updates):
 
             elif text == "get-Pic-disaster":
 
-                bot = telegram.Bot(token="495276922:AAEZnO_xMWnUOH5BV9BkRpAKW5AY902_BY0")
+                bot = telegram.Bot(token="telegram api")
 
                 bot.sendPhoto(chat_id=chatId, photo=open('/Users/ehsanullahahmady/PycharmProjects/untitled/disaster.jpg', 'rb'))
 
@@ -399,7 +399,7 @@ def handleUpdates(updates):
                 # This is the token for the Telegram Bot API.
                 # See https://core.telegram.org/bots#3-how-do-i-create-a-bot
                 # and https://core.telegram.org/bots#6-botfather
-                updater = Updater(token='495276922:AAEZnO_xMWnUOH5BV9BkRpAKW5AY902_BY0')
+                updater = Updater(token='telegram api')
                 dispatcher = updater.dispatcher
 
                 # You can find your Algorithmia token by going to My Profile > Credentials
