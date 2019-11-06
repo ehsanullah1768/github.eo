@@ -1,0 +1,26 @@
+2019-10-01 13:42:05,698 - TBot - INFO - Getting updates
+2019-10-01 13:42:05,698 - TBot - DEBUG - URL: https://api.telegram.org/bot495276922:AAEZnO_xMWnUOH5BV9BkRpAKW5AY902_BY0/getUpdates?timeout=100
+2019-10-01 13:42:10,329 - TBot - DEBUG - {'one_time_keyboard': True, 'keyboard': [[{'text': '/weather'}]]}
+2019-10-01 13:42:12,116 - TBot - INFO - Getting updates
+2019-10-01 13:42:12,117 - TBot - DEBUG - URL: https://api.telegram.org/bot495276922:AAEZnO_xMWnUOH5BV9BkRpAKW5AY902_BY0/getUpdates?timeout=100&offset=948691156
+2019-10-01 13:42:16,075 - TBot - DEBUG - {'one_time_keyboard': True, 'keyboard': [[{'text': 'BotInfo'}], [{'text': 'weather'}], [{'text': 'Nearby-evp'}], [{'text': 'nearby-ev-Name'}], [{'text': 'Nearby-Station'}], [{'text': 'nearby-ev-messages'}], [{'text': 'Nearby-ev-info'}], [{'text': 'users-in-D'}], [{'text': 'get-Pic-disaster'}], [{'text': 'send-pic-disaster'}], [{'text': 'Share location', 'request_location': True}]]}
+2019-10-01 13:42:17,832 - TBot - INFO - Getting updates
+2019-10-01 13:42:17,832 - TBot - DEBUG - URL: https://api.telegram.org/bot495276922:AAEZnO_xMWnUOH5BV9BkRpAKW5AY902_BY0/getUpdates?timeout=100&offset=948691157
+2019-10-01 13:42:28,086 - TBot - INFO - Getting updates
+2019-10-01 13:42:28,086 - TBot - DEBUG - URL: https://api.telegram.org/bot495276922:AAEZnO_xMWnUOH5BV9BkRpAKW5AY902_BY0/getUpdates?timeout=100&offset=948691158
+2019-10-01 13:42:51,874 - TBot - INFO - Getting updates
+2019-10-01 13:42:51,875 - TBot - DEBUG - URL: https://api.telegram.org/bot495276922:AAEZnO_xMWnUOH5BV9BkRpAKW5AY902_BY0/getUpdates?timeout=100&offset=948691159
+2019-10-01 13:43:15,239 - TBot - INFO - Getting updates
+2019-10-01 13:43:15,240 - TBot - DEBUG - URL: https://api.telegram.org/bot495276922:AAEZnO_xMWnUOH5BV9BkRpAKW5AY902_BY0/getUpdates?timeout=100&offset=948691160
+2019-10-01 13:43:34,806 - TBot - INFO - Getting updates
+2019-10-01 13:43:34,807 - TBot - DEBUG - URL: https://api.telegram.org/bot495276922:AAEZnO_xMWnUOH5BV9BkRpAKW5AY902_BY0/getUpdates?timeout=100&offset=948691161
+2019-10-01 13:43:58,768 - TBot - INFO - Getting updates
+2019-10-01 13:43:58,768 - TBot - DEBUG - URL: https://api.telegram.org/bot495276922:AAEZnO_xMWnUOH5BV9BkRpAKW5AY902_BY0/getUpdates?timeout=100&offset=948691162
+2019-10-01 13:44:50,704 - TBot - INFO - Getting updates
+2019-10-01 13:44:50,706 - TBot - DEBUG - URL: https://api.telegram.org/bot495276922:AAEZnO_xMWnUOH5BV9BkRpAKW5AY902_BY0/getUpdates?timeout=100&offset=948691162
+2019-10-01 13:45:42,660 - TBot - INFO - Getting updates
+2019-10-01 13:45:42,665 - TBot - DEBUG - URL: https://api.telegram.org/bot495276922:AAEZnO_xMWnUOH5BV9BkRpAKW5AY902_BY0/getUpdates?timeout=100&offset=948691162
+2019-10-01 13:46:33,660 - TBot - INFO - Getting updates
+2019-10-01 13:46:33,661 - TBot - DEBUG - URL: https://api.telegram.org/bot495276922:AAEZnO_xMWnUOH5BV9BkRpAKW5AY902_BY0/getUpdates?timeout=100&offset=948691163
+2019-10-01 13:47:21,122 - TBot - INFO - Getting updates
+2019-10-01 13:47:21,124 - TBot - DEBUG - URL: https://api.telegram.org/bot495276922:AAEZnO_xMWnUOH5BV9BkRpAKW5AY902_BY0/getUpdates?timeout=100&offset=948691164
