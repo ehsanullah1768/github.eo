@@ -12,7 +12,7 @@ import tempfile
 
 
 # Your registered bot's token
-TOKEN = '495276922:AAEZnO_xMWnUOH5BV9BkRpAKW5AY902_BY0'
+TOKEN = 'telegram api'
 
 
 def get_file_path(token, file_id):
